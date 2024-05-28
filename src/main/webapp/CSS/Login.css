@@ -1,0 +1,52 @@
+.login-page{
+           background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+            min-height:530px;
+            position: relative;
+           
+        }
+        .container{
+            position: absolute;
+            top:10%;
+            max-width: 300px;
+            background-color:#F08080;
+            margin-left:800px;
+            padding: 16px;
+        
+
+        }
+        
+        input[type=username], input[type=password]
+        {
+             width: 100%;
+             padding:20px;
+             margin: 5px 0 22px 0;
+             border: 0px;
+             background-color: #f1f1f1;
+            
+
+        }
+        input[type=username],input[type=password]:focus
+        {
+            background-color:#f1f1f1;
+            outline:none;
+        }
+       
+        
+        button{
+            background-color:rgb(104, 85, 136);
+            color: white;
+            padding: 16px 20px;
+            width: 100%;
+            border: 0;
+            cursor: pointer;
+            font-size: 20px;
+            opacity: 0.9;
+        }
+        button:hover{
+            opacity: 1;
+        }
+        h2{
+            text-align: center;
+            margin: 10px;
+            padding: 5px;
+        }

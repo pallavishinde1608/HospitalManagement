@@ -1,0 +1,28 @@
+@charset "UTF-8";
+label{
+color:black;
+width:150px;
+font-size:17px;
+}
+
+input{
+padding:3px;
+}
+
+.content h3{
+color:blue;
+margin-top:10px;
+
+}
+.formarea{
+  margin:70px;
+  background-color:#4DA6FF;
+  border:2px solid gray;
+  box-shadow: 10px 10px gray;
+  padding:5px;
+  width:850px;
+}
+.control1{
+margin-bottom:10px;
+margin-top:10px;
+}

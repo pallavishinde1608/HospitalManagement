@@ -1,0 +1,21 @@
+.formfuel{
+    background-color:#4DA6FF;
+	padding:20px;
+	color:white;
+	width:400px;
+	min-height:250px;
+	margin-top:100px;
+	margin-left:200px;
+	box-shadow: 10px 10px gray;
+	
+}
+.control{
+	border-radius:5px
+}
+.btn{
+	background-color:blue;
+	color:black;
+	border:1px solid white;
+	padding:10px;
+	border-radius:10px;
+}

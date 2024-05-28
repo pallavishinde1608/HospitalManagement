@@ -1,0 +1,29 @@
+
+@charset "UTF-8";
+
+.icon1{
+	width:30px;
+	height:30px;
+	margin-left:20px;
+}
+.table{
+	border:5px solid black;
+	background-color: white;
+    border-collapse: collapse; 
+    color:white;
+}
+h1{
+	color:white;
+}
+.table .th { 
+  background-color:#4DA6FF;
+  color: white; 
+  }
+.table td, 
+.table th { 
+  border: 1px solid black; 
+  
+  }
+
+  .table td{
+  color:black;}

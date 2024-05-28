@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.formarea{
+	position:absolute;
+	padding:20px;
+	width:500px;
+	min-height:150px;
+	color:white;
+	background-color:#4DA6FF;
+	margin-left:150px;
+	margin-top:80px;
+	box-shadow: 10px 10px gray;
+	font-size:20px;
+}
+
+.btn{
+	margin:10px;
+	color:white;
+	
+}
+
+
+

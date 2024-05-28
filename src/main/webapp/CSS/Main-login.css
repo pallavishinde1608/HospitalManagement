@@ -1,0 +1,50 @@
+@charset "UTF-8";
+.admin-login{
+	width:250px;
+	height:150px;
+	background-color:#4DA6FF;
+	margin-left:570px;
+	color:white;
+	text-align:center;
+	margin-top:30px;
+	border-radius:50%;
+	padding:10px;
+	
+}
+a{
+	
+	color:white;
+	font-size:30px;
+	
+	
+}
+.img{
+	width:100px;
+	height:100px;
+}
+.main-login{
+	display:flex;
+	text-align:center;
+	
+}
+.doctor-login{
+	
+	margin:30px;
+	background-color:#4DA6FF;
+	width:230px;
+	height:150px;
+	margin-left:250px;
+	border-radius:50%;
+	padding:10px;
+	
+}
+.patient-login{
+	
+	margin:30px;
+	margin-left:380px;
+	background-color:#4DA6FF;
+	width:250px;
+	height:150px;
+	border-radius:50%;
+	padding:10px;
+}

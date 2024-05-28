@@ -1,0 +1,47 @@
+/* Style the dropdown button */
+.logo-name {
+	
+	width:70%;
+}
+.dropbtn {
+    background-color: #4DA6FF;
+    color: white;
+    margin-left:120px;
+    padding:10px;
+    font-size:25px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Style the dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    width:150px;
+   
+    z-index: 1;
+    font-size:15px;
+    margin-left:120px;
+}
+
+/* Style links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding:10px 15px;
+    text-decoration: none;
+    display: block;
+    
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #4DA6FF;
+    color:white;
+    
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
